@@ -10,7 +10,14 @@ If you want to see a practical application of this extension, read my article <a
 If you don’t want to build this extension but want to use it, download it from the Chrome Web Store, it’s called <a href="https://chromewebstore.google.com/detail/stock-news-and-forecast-e/giliocmealnhiegcjafllopfbcfnnnpo">Stock News and Forecast Extension.</a>
 
 ## Support
-If you find this extension useful, you can support me by sending a tip to the following crypto addresses. Click a button to copy the address to your clipboard.
+If you find this extension useful, you can support me by sending a tip
+<h3 align="center">💖 Support My Work</h3>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/sanzhikobzf">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" width="250" height="40" style="font-size: 12px;">
+  </a>
+</p>
 
 
 
