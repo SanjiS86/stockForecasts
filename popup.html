@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Stock Analysis</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div class="container">
+    <h2>Stock Analysis Extension</h2>
+    <div class="api-key-section">
+      <p>Get your API key <a href="https://site.financialmodelingprep.com/developer/docs/pricing" target="_blank">here</a>.</p>
+    </div>
+    <div class="input-group">
+      <label for="api-key">API Key:</label>
+      <input type="text" id="api-key" placeholder="Enter your API key">
+    </div>
+
+    <div class="section">
+      <h3>Stock News</h3>
+      <div class="input-group">
+        <label for="news-ticker">Stock Ticker:</label>
+        <input type="text" id="news-ticker" placeholder="e.g., AAPL">
+      </div>
+      <button id="news-button">Show Analysis</button>
+      <div id="news-results"></div>
+    </div>
+
+    <div class="section">
+      <h3>Financial Statement Estimates</h3>
+      <div class="input-group">
+        <label for="estimates-ticker">Stock Ticker:</label>
+        <input type="text" id="estimates-ticker" placeholder="e.g., AAPL">
+      </div>
+      <div class="input-group">
+        <label for="period">Period:</label>
+        <select id="period">
+          <option value="annual">Annual</option>
+          <option value="quarter">Quarter</option>
+        </select>
+      </div>
+      <button id="estimates-button">Show Analysis</button>
+      <div id="estimates-results"></div>
+    </div>
+
+    <div class="section">
+      <h3>Stock Price Target News</h3>
+      <div class="input-group">
+        <label for="price-target-ticker">Stock Ticker:</label>
+        <input type="text" id="price-target-ticker" placeholder="e.g., AAPL">
+      </div>
+      <button id="price-target-button">Show Analysis</button>
+      <div id="price-target-results"></div>
+    </div>
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>
