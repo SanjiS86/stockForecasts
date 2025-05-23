@@ -3,7 +3,7 @@
  2. the most important company news
  3. analyst estimates for your chosen stock.
 
-If you are interested in reading on how to build this extension, you can read my article <a href="https://site.financialmodelingprep.com/how-to/how-to-create-your-own-stock-analysis-chrome-extension">How to Create Your Own Stock Analysis Chrome Extension.</a>
+If you are interested in the step-by-step process on how to build this extension, you can read my article <a href="https://site.financialmodelingprep.com/how-to/how-to-create-your-own-stock-analysis-chrome-extension">How to Create Your Own Stock Analysis Chrome Extension.</a>
 
 If you want to see a practical application of this extension, read my article <a href="https://site.financialmodelingprep.com/how-to/how-to-forecast-stock-prices-using-fmp-news-stock-price-targets-and-financial-statements-estimates">How to forecast stock prices using FMP news, stock price targets, and financial statements estimates.</a>
 
